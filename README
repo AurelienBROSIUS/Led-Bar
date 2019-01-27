@@ -4,12 +4,14 @@ It's a led bar with 12 pins connector, for led size : 3 & 5mm
 
 ### TECHNICAL DETAILS / COMPONENTS
 
+Type: PCB
 Size: 14 x 145 mm
 Led type: 3 or 5 mm
-Voltage: 5v
+Voltage: ~ 5v
 Resistor: 10 (0805 Package) Recommended value: 100 Ohms
 Connector: 12 pins
 
 ### LEARN / TOPIC / BUILD INSTRUCTIONS
 
-Go to the github for detailed schematics
+Go to the github for detailed schematics (here)
+You can order for ~ $20 in : https://www.pcbway.com/project/shareproject/LED_BAR__2_x_20_LEDS_.html
