@@ -1,0 +1,15 @@
+### DESCRIPTION
+
+It's a led bar with 12 pins connector, for led size : 3 & 5mm
+
+### TECHNICAL DETAILS / COMPONENTS
+
+Size: 14 x 145 mm
+Led type: 3 or 5 mm
+Voltage: 5v
+Resistor: 10 (0805 Package) Recommended value: 100 Ohms
+Connector: 12 pins
+
+### LEARN / TOPIC / BUILD INSTRUCTIONS
+
+Go to the github for detailed schematics
